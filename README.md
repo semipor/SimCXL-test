@@ -138,7 +138,7 @@ Notes:
 ## Citation
 If you find SimCXL useful for your own work, please cite our papers as follows.
 ```tex
-@ARTICLE{Cohet,
+@INPROCEEDINGS{Cohet,
   author={Wang, Yanjing and Wu, Lizhou and Gao, Sunfeng and Tang, Yibo and Luo, Junhui and Wang, Zicong and Ou, Yang and Dong, Dezun and Xiao, Nong and Lai, Mingche},
   booktitle={2026 IEEE International Symposium on High Performance Computer Architecture (HPCA)}, 
   title={Cohet: A CXL-Driven Coherent Heterogeneous Computing Framework with Hardware-Calibrated Full-System Simulation}, 
